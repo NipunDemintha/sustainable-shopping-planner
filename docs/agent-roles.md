@@ -1,8 +1,7 @@
 # Agent Roles
 
 ## Brand Data Collector
-- Scrapes APIs and websites for fashion brands and eco-data.
-- Provides raw data for eco-score and recommendations.
+- Ingest brand data scraped from the web, clean it, and prepare for analysis.
 
 ## Rating Calculator
 - Calculates eco-scores using NLP and LLMs.

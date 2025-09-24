@@ -24,16 +24,18 @@ Sustainable Shopping Planner is an open-source project designed to help users pl
 ## 📸 Screenshots
 
 <!-- Add screenshots/gif demos here -->
-![Screenshot 1](docs/screenshots/screenshot1.png)
-![Screenshot 2](docs/screenshots/screenshot2.png)
+![Screenshot 1](docs/screenshot1.png)
+![Screenshot 2](docs/screenshot2.png)
+![Screenshot 3](docs/screenshot3.png)
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** React, Material-UI
+- **Frontend:** Next
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
+- **Agent:** Python
 - **APIs:** Carbon tracking, product data integrations
 
 ---
